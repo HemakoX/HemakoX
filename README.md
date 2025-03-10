@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Hey+there!+I'm+Black+Cat+😼;A+Passionate+Programmer+%26+More!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Hey+there!+I'm+Black+Cat+😼;A+Passionate+Programmer;Coffee+Lover+❤" alt="Typing Animation">
 </p>
 
 <!-- Introduction -->
