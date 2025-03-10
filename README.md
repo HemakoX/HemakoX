@@ -14,7 +14,7 @@
 
 ### 🚀 My Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,flutter,firebase,github,androidstudio,vscode,pycharm,flask,notion,taskly" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,flutter,firebase,github,androidstudio,vscode,pycharm,flask,notion" />
 </p>
 
 ---
