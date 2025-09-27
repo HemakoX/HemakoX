@@ -1,10 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Hey+there!+I'm+HemakoX;Black+Cat+😼;A+Passionate+Developer;I'm+a+Tea+Lover+❤;Building+productive+projects" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Hey+there!+I'm+Hemakotester;A+Passionate+Developer;I'm+a+Tea+Lover+❤;Building+productive+projects" alt="Typing Animation">
 </p>
 
 <!-- Introduction -->
-## 👋 Hello, I'm Black Cat!  
+## 👋 Hello, I'm Hemako 
 
 🔥 Passionate **Android Developer** 🚀  
 🎯 Focused on **Automation, Python, Kotlin, Flutter & Firebase**  
