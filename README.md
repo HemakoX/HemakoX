@@ -14,12 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,kotlin,flutter,dart,firebase,gcp,github,androidstudio,vscode,pycharm,idea,notion" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemakoX&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-</p>
 
 ---
 
